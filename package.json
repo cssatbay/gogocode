@@ -1,0 +1,10 @@
+{
+  "name": "ayacom-store",
+  "version": "1.0.0",
+  "description": "Simple static AYACOM online store",
+  "scripts": {
+    "test": "echo 'No tests' && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
